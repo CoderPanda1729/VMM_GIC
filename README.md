@@ -1,4 +1,4 @@
-# Generic Interrupt Controller
+# Generic Interupt Controller
 
 ## kvm-bindings
 Rust FFI generated using
